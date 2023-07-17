@@ -1,0 +1,11 @@
+.filterHorizental{
+    width: 80%;
+    margin-top: 0px;
+}
+
+@media screen and (max-width:992px) {
+    .filterHorizental{
+        width: 100%;
+        margin-top: 0px;
+    }
+}
